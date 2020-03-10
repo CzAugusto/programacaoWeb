@@ -1,11 +1,83 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8de47f41-8ba3-4c28-9a79-ff2d9fa56314" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/aula2.html" beforeDir="false" afterPath="$PROJECT_DIR$/aula2.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YxIj7M1I1lRw4GBRGkAZM2QBYF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8de47f41-8ba3-4c28-9a79-ff2d9fa56314" name="Default Changelist" comment="" />
+      <created>1583877950682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583877950682</updated>
+      <workItem from="1583877952030" duration="4304000" />
+    </task>
+    <task id="LOCAL-00001" summary="10-03-2020 19:07">
+      <created>1583878127829</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1583878127829</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10-03-2020 19:07" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-03-2020 19:07" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="27" width="820" height="741" key="CommitChangelistDialog2" timestamp="1583878127038">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="27" width="820" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1583878127038" />
+    <state x="110" y="127" width="475" height="539" key="DiffContextDialog" timestamp="1583882155794">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="110" y="127" width="475" height="539" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1583882155794" />
+    <state x="0" y="132" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583878271607">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="0" y="132" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583878271607" />
   </component>
 </project>
