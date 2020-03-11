@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de47f41-8ba3-4c28-9a79-ff2d9fa56314" name="Default Changelist" comment="">
+    <list default="true" id="8de47f41-8ba3-4c28-9a79-ff2d9fa56314" name="Default Changelist" comment="10-03-2020 20:30">
+      <change afterPath="$PROJECT_DIR$/tabelas.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aula2.html" beforeDir="false" afterPath="$PROJECT_DIR$/aula2.html" afterDir="false" />
     </list>
@@ -24,8 +25,16 @@
     <expand />
     <select />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1YxIj7M1I1lRw4GBRGkAZM2QBYF" />
   <component name="ProjectViewState">
@@ -34,6 +43,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -47,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583877950682</updated>
-      <workItem from="1583877952030" duration="4304000" />
+      <workItem from="1583877952030" duration="7943000" />
     </task>
     <task id="LOCAL-00001" summary="10-03-2020 19:07">
       <created>1583878127829</created>
@@ -56,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583878127829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="10-03-2020 20:30">
+      <created>1583883166509</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1583883166509</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -64,20 +81,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10-03-2020 19:07" />
-    <option name="LAST_COMMIT_MESSAGE" value="10-03-2020 19:07" />
+    <MESSAGE value="10-03-2020 20:30" />
+    <option name="LAST_COMMIT_MESSAGE" value="10-03-2020 20:30" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="27" width="820" height="741" key="CommitChangelistDialog2" timestamp="1583878127038">
+    <state x="0" y="27" width="820" height="741" key="CommitChangelistDialog2" timestamp="1583883234281">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="0" y="27" width="820" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1583878127038" />
+    <state x="0" y="27" width="820" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1583883234281" />
     <state x="110" y="127" width="475" height="539" key="DiffContextDialog" timestamp="1583882155794">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="110" y="127" width="475" height="539" key="DiffContextDialog/0.27.1366.741@0.27.1366.741" timestamp="1583882155794" />
-    <state x="0" y="132" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583878271607">
+    <state x="0" y="132" width="800" height="535" key="Vcs.Push.Dialog.v2" timestamp="1583883254045">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="0" y="132" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583878271607" />
+    <state x="0" y="132" width="800" height="535" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1583883254045" />
+    <state x="130" y="316" width="434" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1583883630554">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="130" y="316" width="434" height="167" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.27.1366.741@0.27.1366.741" timestamp="1583883630554" />
+    <state x="12" y="191" width="660" height="418" key="git4idea.merge.GitPullDialog" timestamp="1583883656411">
+      <screen x="0" y="27" width="1366" height="741" />
+    </state>
+    <state x="12" y="191" width="660" height="418" key="git4idea.merge.GitPullDialog/0.27.1366.741@0.27.1366.741" timestamp="1583883656411" />
   </component>
 </project>
